@@ -1,0 +1,113 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* @media screen and (max-width: 1500px) {
+body {
+  background: white;
+}} */
+
+.title {
+  height: 200px;
+  width: 250px;
+  margin-left: 150px;
+}
+
+.smi {
+  height: 10px;
+  width: 10px;
+  margin-bottom: 20px;
+  margin: 10px;
+  float: right;
+  }
+
+  a {
+    color: black;
+  }
+
+.tabs {
+    overflow: hidden;
+  }
+
+.tabs a {
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 19px;
+  }
+
+.tabs a:hover {
+    color: #FFE8D9;
+  }
+
+.tabs a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+
+.home1 {
+  height: 400px;
+  width: 1440px;
+  object-fit: cover;
+  }
+
+article {
+  background-color: #FFFBEF;
+  height: 400px;
+  }
+
+.hparticle1 {
+  height: 300px;
+  width: 270px;
+  margin-left: 20px;
+  }
+
+.hparticle2 {
+  height: 220px;
+  width: 190px;
+  margin-left: -80px;
+  margin-bottom: -40px;
+}
+
+.hpdeco1 {
+  height: 80px;
+  width: 75px;
+  margin-left: -270px;
+  margin-bottom: -50px;
+}
+
+.hparticle3 {
+  height: 150px;
+  width: 150px;
+  margin-left: 270px;
+  margin-bottom: -30px;
+}
+
+.hparticle4 {
+  height: 270px;
+  margin-left: 10px;
+}
+
+.hpdeco2 {
+  height: 120px;
+  width: 130px;
+  margin-left: -440px;
+  margin-bottom: 160px;
+}
+
+.hpdeco3 {
+  height: 300px;
+  width: 250px;
+  margin-left: 250px;
+}
+
+.hparticle5 {
+  height:160px;
+  width: 130px;
+  margin-left: 1200px;
+  padding-top: -200px;
+  margin-top: -900px;
+  margin-right: -300px;
+}

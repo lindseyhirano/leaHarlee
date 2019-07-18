@@ -1,0 +1,192 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* @media screen and (max-width: 1500px) {
+body {
+  background: white;
+}} */
+
+.logo {
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  left: 2%;
+  top: 2%;
+}
+
+.title {
+  height: 200px;
+  width: 400px;
+  margin-left: 180px;
+  margin-top: 10px;
+  align-content: center;
+}
+
+.smi {
+  height: 10px;
+  width: 10px;
+  margin-bottom: 20px;
+  margin: 10px;
+  float: right;
+  }
+
+  a {
+    color: black;
+  }
+
+.tabs {
+    overflow: hidden;
+  }
+
+.tabs a {
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 19px;
+  }
+
+.tabs a:hover {
+    color: #FFE8D9;
+  }
+
+.tabs a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+
+.bp1 {
+  height: 400px;
+  float: right;
+  position: absolute;
+  right: 0%;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 60px;
+  color: #B80303;
+  background-color: #FFFBEF;
+}
+
+.bat {
+  position: absolute;
+  left: 6%;
+  right: 45%;
+  bottom: 20%;
+}
+
+.bp2 {
+  height: 400px;
+  float: left;
+  position: absolute;
+  left: 0%;
+  bottom: -50%;
+}
+
+.bat1 {
+  float: right;
+  position: absolute;
+  right: 6%;
+  left: 45%;
+  top: 112%;
+}
+
+.bp3 {
+  height: 400px;
+  width: 350px;
+  float: right;
+  position: absolute;
+  right: 0%;
+  top: 156%;
+}
+
+.bat2 {
+  position: absolute;
+  left: 6%;
+  right: 45%;
+  top: 180%;
+}
+
+.bp4 {
+  height: 400px;
+  float: right;
+  position: absolute;
+  right: 25%;
+}
+
+.bp5 {
+  height: 400px;
+  float: right;
+  position: absolute;
+  right: 50%;
+}
+
+.bp6 {
+  height: 400px;
+  float: right;
+  position: absolute;
+  right: 65%;
+}
+
+.bp7 {
+  height: 400px;
+  float: right;
+  position: absolute;
+  right: 32%;
+  bottom: -50%;
+}
+
+.bp8 {
+  height: 400px;
+  float: right;
+  position: absolute;
+  right: 5%;
+  bottom: -50%;
+}
+
+.bp9 {
+  height: 400px;
+  float: right;
+  position: absolute;
+  right: 0%;
+  bottom: -50%;
+}
+
+.bp10 {
+  height: 400px;
+  width: 350px;
+  float: right;
+  position: absolute;
+  right: 23%;
+  top: 156%;
+}
+
+.bp11 {
+  height: 400px;
+  width: 350px;
+  float: right;
+  position: absolute;
+  right: 45%;
+  top: 156%;
+}
+
+.bp12 {
+  height: 400px;
+  width: 350px;
+  float: right;
+  position: absolute;
+  right: 68%;
+  top: 156%;
+}
+
+.bp13 {
+  height: 400px;
+  width: 500px;
+  float: right;
+  position: absolute;
+  right: 90%;
+  top: 156%;
+}
